@@ -1,0 +1,6 @@
+{
+  "name": "Website Recovery Tool",
+  "description": "An automated desktop and web tool to recover business contact details, social links, and public profiles from domains, with bulk processing and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
