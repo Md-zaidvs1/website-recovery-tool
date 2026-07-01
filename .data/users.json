@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Plant2tree Admin",
+    "email": "admin@recovery.com",
+    "password": "$2b$12$bPT/EbOCHMPMw2BdBiYu0.pV.okBEn1ooIE2Zq3akynD2ptVgjIwO",
+    "role": "admin",
+    "isActive": true,
+    "id": "cg2rpf4iq",
+    "createdAt": "2026-07-01T17:57:10.217Z",
+    "updatedAt": "2026-07-01T17:57:10.217Z"
+  }
+]
